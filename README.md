@@ -1,4 +1,11 @@
-## Hi there 👋
+## Formation
+- Third Semester in Artificial Inteligence at FATEC Rio Claro
+- Formed in ETEC Bayeux in System Development
+
+## Knoledge
+- Python in AI and Data Science
+- HTML, CSS, PhP
+- MySQL 
 
 <!--
 **gabriel-nanetti/gabriel-nanetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
