@@ -1,11 +1,10 @@
-## Formation
-- Third Semester in Artificial Inteligence at FATEC Rio Claro
-- Formed in ETEC Bayeux in System Development
+## About me
+- Hello! I'm Gabriel Vinicios Nanetti an Artificial Intelligence student at FATEC Rio Claro, currently in my third year, with a focus on projects about machine learning, data science, public health and GIS
 
-## Knoledge
-- Python in AI and Data Science
-- HTML, CSS, PhP
-- MySQL 
+## Knowledge
+**Languages:** Python, HTML, CSS, MySQL
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, GeoPandas
+**Tools:** Git, Vercel
 
 <!--
 **gabriel-nanetti/gabriel-nanetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
